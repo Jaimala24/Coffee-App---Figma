@@ -38,6 +38,12 @@ Fonts: Space Grotesk
 
 Color Palette: Coffee-inspired warm tones (Charcoal Black, Golden Ochre, Slate Gray, Light Ash Gray)
 
+## 🔗 Figma File
+
+Click the link below to view the design on Figma:
+
+https://www.figma.com/proto/LzfKgXP0mW4Q6L4rSM6OMu?node-id=0-1&t=ePBwtGKxMCYT3h8Y-6
+
 ## 📸 Screenshots
 
 ![PG 1](https://github.com/user-attachments/assets/20a4e532-cb71-432a-aa72-17754b4a5398)
